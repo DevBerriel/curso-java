@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1793313-7c84-4b74-a2e3-20ef269a26ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/controle/DesafioWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/For.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/WhileDeterminado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/WhileIndeterminado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controle/DesafioDiaSemana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controle/DesafioDiaSemana.java" afterDir="false" />
-    </list>
+    <list default="true" id="d1793313-7c84-4b74-a2e3-20ef269a26ef" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
