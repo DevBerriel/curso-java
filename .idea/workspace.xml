@@ -5,40 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1793313-7c84-4b74-a2e3-20ef269a26ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/controle/Break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/BreakRotulado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/Continue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/DesafioFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/SwitchSemBreak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/version.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/curso-java/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/curso-java/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/curso-java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/curso-java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/curso-java/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/curso-java/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/curso-java/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/curso-java/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/curso-java/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/curso-java/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/curso-java/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/curso-java/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/curso-java/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/curso-java/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/curso-java/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/curso-java/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/curso-java/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/curso-java/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/curso-java/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/curso-java/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/curso-java/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/curso-java/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/curso-java/.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/calculator/CalculatorApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/javafx/application/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/javafx/geometry/Pos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/module-info.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
