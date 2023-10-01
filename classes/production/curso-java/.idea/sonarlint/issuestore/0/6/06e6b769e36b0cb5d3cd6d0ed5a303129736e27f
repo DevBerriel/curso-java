@@ -1,0 +1,7 @@
+
+s
+java:S3457	"Q%n should be used in place of \n to produce the platform-specific line separator.(ΞΖΖνόÿÿÿÿ8ΫƒΓ®1
+L	java:S106	"+Replace this use of System.out by a logger.(ΞΖΖνόÿÿÿÿ8ίƒΓ®1
+N
+java:S1264",Replace this "for" loop with a "while" loop.(£°΅λϊÿÿÿÿ8ΰƒΓ®1
+L	java:S106"+Replace this use of System.out by a logger.(­Δªϊÿÿÿÿ8£„Γ®1
