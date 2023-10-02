@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1793313-7c84-4b74-a2e3-20ef269a26ef" name="Changes" comment="" />
+    <list default="true" id="d1793313-7c84-4b74-a2e3-20ef269a26ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/classesMetodos/DesafioMetodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classesMetodos/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classesMetodos/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classesMetodos/ProdutoTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classesMetodos/ProdutoTeste.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,9 +44,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DesafioFor">
-    <configuration name="DesafioFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.controle.DesafioFor" />
+  <component name="RunManager" selected="Application.ProdutoTeste">
+    <configuration name="Break" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.controle.Break" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
@@ -51,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafioWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.controle.DesafioWhile" />
+    <configuration name="BreakRotulado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.controle.BreakRotulado" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
@@ -64,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.controle.DoWhile" />
+    <configuration name="Continue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.controle.Continue" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
@@ -77,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="For" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.controle.For" />
+    <configuration name="DataTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.classesMetodos.DataTeste" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.controle.*" />
+          <option name="PATTERN" value="src.classesMetodos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileIndeterminado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.controle.WhileIndeterminado" />
+    <configuration name="ProdutoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.classesMetodos.ProdutoTeste" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.controle.*" />
+          <option name="PATTERN" value="src.classesMetodos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DesafioFor" />
-        <item itemvalue="Application.DesafioWhile" />
-        <item itemvalue="Application.DoWhile" />
-        <item itemvalue="Application.WhileIndeterminado" />
-        <item itemvalue="Application.For" />
+        <item itemvalue="Application.ProdutoTeste" />
+        <item itemvalue="Application.DataTeste" />
+        <item itemvalue="Application.BreakRotulado" />
+        <item itemvalue="Application.Continue" />
+        <item itemvalue="Application.Break" />
       </list>
     </recent_temporary>
   </component>

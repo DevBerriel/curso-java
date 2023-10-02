@@ -19,3 +19,25 @@ I
 src/controle/DoWhile.java,a\c\ac1b3308c69fafb4d8f6a13c41acab52c42da6db
 N
 src/controle/DesafioWhile.java,b\9\b9bf3130dccdfaf267934339f254cbb49d947a14
+L
+src/controle/DesafioFor.java,3\3\33736d8a78da06fab5613affa178cf5a38faae54
+P
+ src/controle/SwitchSemBreak.java,c\6\c64c926f5d3ea4aa059c4ac3f8958f5c392af884
+H
+src/controle/Switch.java,e\f\efb00c2efc072e07d9a0d43adbf0ab1b5658b3cf
+G
+src/controle/Break.java,5\4\54a7332646921b7ff3cbfb561af943db76a76101
+J
+src/controle/Continue.java,6\9\69e9f2a5a4e8b3eeb6e271bb4fa6f8b141ae5a20
+O
+src/controle/BreakRotulado.java,9\a\9a4905bbdeb335c034b17b50cadd74c554049197
+Y
+)src/fundamentos/AreaDaCircunferencia.java,4\2\429ff1c669680d00967df238ddac8a7968c2d38c
+O
+src/classesMetodos/Produto.java,b\5\b5d1a6803bb12a260344296030bacde10cf80a91
+T
+$src/classesMetodos/ProdutoTeste.java,3\4\34244c4a1b1ac47b36a12886b1fb1f6ab50fdd1c
+L
+src/classesMetodos/Data.java,5\9\594c57e3e34fefb222409a7cd02b506af72b4dd0
+Q
+!src/classesMetodos/DataTeste.java,c\f\cfc61d128d798bee1abc022c60b276ed835328b4

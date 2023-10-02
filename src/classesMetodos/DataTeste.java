@@ -3,19 +3,19 @@ package src.classesMetodos;
 public class DataTeste {
     public static void main(String[] args) {
 
-        Data dia = new Data();
-        dia.dia = 24;
-        dia.mes = 9;
-        dia.ano = 1993;
+        Data dia = new Data(24, 9, 1993);
 
-        System.out.printf(" %d/%d/%d", dia.dia, dia.mes, dia.ano);
+        System.out.println(dia.dataFormatada());
 
-        var dia2 = new Data();
-        dia2.dia = 29;
-        dia2.mes = 11;
-        dia2.ano = 2020;
+        var dia2 = new Data(29,11,2020);
 
-        System.out.printf(" %d/%d/%d", dia2.dia, dia2.mes, dia2.ano);
+        Data dia3 = new Data();
+
+        System.out.println(dia3.dataFormatada());
+
+
+
+        System.out.printf(dia2.dataFormatada());
     }
 
 
