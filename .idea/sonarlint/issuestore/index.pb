@@ -41,3 +41,21 @@ L
 src/classesMetodos/Data.java,5\9\594c57e3e34fefb222409a7cd02b506af72b4dd0
 Q
 !src/classesMetodos/DataTeste.java,c\f\cfc61d128d798bee1abc022c60b276ed835328b4
+U
+%src/classesMetodos/AreaCircTeste.java,9\c\9c8eab69ecc96139d5a7b40110b275893b2ff9e6
+P
+ src/classesMetodos/AreaCirc.java,3\4\34a1e0aa75d1c2deea85cdff57d7819e67d24f99
+U
+%src/classesMetodos/DesafioTrauma.java,e\7\e7b1e1597327fd51e04efe9cc85f9ae7fee4e9dd
+Q
+!src/classesMetodos/ValorNull.java,6\4\64a67bd4808de43971e53faf27c67188e3365f2c
+Y
+)src/classesMetodos/ValorVsReferencia.java,8\3\83b4eb9484faf930f1743c3fb3718e92ad17c31d
+U
+%src/classesMetodos/DesafioPessoa.java,2\f\2f5760761c78b87b2f6aaff957bd46c5382327ac
+U
+%src/classesMetodos/DesafioJantar.java,8\c\8c65cb12cecf436ae5b9f65c42b721beb9c1c293
+U
+%src/classesMetodos/DesafioComida.java,2\5\25a111fd820f932ca0061ab7a2d812c75e7252cd
+J
+src/arrays/Exercicio1.java,9\b\9b8344355a46909c7554ddd25a4d512208330595
