@@ -1,0 +1,5 @@
+
+r
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(Î†ë¼ùÿÿÿÿ8ªÿð¼¯1
+n
+java:S6201"LReplace this instanceof check and cast with 'instanceof EqualsUsuario outro'(¤ÅØ’øÿÿÿÿ8ªÿð¼¯1
