@@ -91,3 +91,23 @@ G
 src/poo/CarroTeste.java,5\a\5a652aa530a0505fbba5fed5a61a32c77bb28a0e
 B
 src/poo/Carro.java,2\b\2be1c8d260f1f54580ae63929ad39c235381a6f1
+A
+src/poo/Item.java,2\9\291e4ccbf9e2a4341800a8af2a740c3114105396
+H
+src/poo/CompraTeste.java,d\2\d2fb0c9fb0513f21aef79d28522d4661fa17c361
+B
+src/poo/Curso.java,0\9\09657ac80ab0e59cfab9c7402aa32309cdf193ee
+B
+src/poo/Aluno.java,9\6\96e2933309cc00219ab5b65dea9114b355a06592
+G
+src/poo/CursoTeste.java,8\8\883ea1cd6fa5be89f6e84e88935063e5fcac79d4
+O
+src/poo/desafioPOO/Cliente.java,b\c\bca8efbd023ca2bda0dbfbfeb1434797bafe9915
+C
+src/poo/Compra.java,d\1\d1adeed835980428b568254cee574e06aec9447c
+N
+src/poo/desafioPOO/Compra.java,5\0\50cab8997fec93ac1130d32f524718a8750210ed
+O
+src/poo/desafioPOO/Produto.java,e\3\e3f6003c36feb5ccdcd5036cb6498056d4b8f706
+L
+src/poo/desafioPOO/Item.java,b\0\b0b0f463ef1810eb7779019e9db51493dcdeb9b0
