@@ -111,3 +111,5 @@ L
 src/poo/desafioPOO/Item.java,b\0\b0b0f463ef1810eb7779019e9db51493dcdeb9b0
 O
 src/poo/desafioPOO/Cliente.java,b\c\bca8efbd023ca2bda0dbfbfeb1434797bafe9915
+O
+src/poo/desafioPOO/Sistema.java,7\b\7b52f8950e6942b2be56e9c78ff4d93b4af9b0be
