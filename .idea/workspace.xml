@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1793313-7c84-4b74-a2e3-20ef269a26ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/polimorfismo/Arroz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorfismo/Feijao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorfismo/Jantar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorfismo/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorfismo/Sorvete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/encapsulamentoCasaA/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/encapsulamentoCasaA/PessoaTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/curso-java/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/curso-java/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/curso-java/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/curso-java/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/curso-java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/curso-java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polimorfismo/Comida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polimorfismo/Arroz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polimorfismo/Arroz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polimorfismo/Feijao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polimorfismo/Feijao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polimorfismo/Sorvete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polimorfismo/Sorvete.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
