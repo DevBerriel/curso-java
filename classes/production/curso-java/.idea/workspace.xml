@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1793313-7c84-4b74-a2e3-20ef269a26ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/poo/encapsulamentoCasaA/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/encapsulamentoCasaA/PessoaTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/heranca/Desafio/Esportivo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poo/heranca/Desafio/CarroTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/heranca/Desafio/CarroTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poo/heranca/Desafio/Ferrari.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/heranca/Desafio/Ferrari.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +20,7 @@
       <list>
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -47,13 +47,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PessoaTeste">
-    <configuration name="CursoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.poo.CursoTeste" />
+  <component name="RunManager" selected="Application.Jantar">
+    <configuration name="Jantar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.polimorfismo.Jantar" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.poo.*" />
+          <option name="PATTERN" value="src.polimorfismo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Jantar" />
         <item itemvalue="Application.PessoaTeste" />
         <item itemvalue="Application.src.poo.heranca.Desafio.CarroTeste" />
         <item itemvalue="Application.Jogo" />
         <item itemvalue="Application.Sistema" />
-        <item itemvalue="Application.CursoTeste" />
       </list>
     </recent_temporary>
   </component>

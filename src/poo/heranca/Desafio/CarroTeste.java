@@ -13,6 +13,10 @@ public class CarroTeste {
         Ferrari c2 = new Ferrari();
         c2.acelerar();
         c2.acelerar();
+        c2.ligarTurbo();
+        c2.acelerar();
+        c2.acelerar();
+        c2.ligarAr();
         c2.acelerar();
         c2.acelerar();
         c2.acelerar();
