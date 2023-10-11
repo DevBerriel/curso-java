@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1793313-7c84-4b74-a2e3-20ef269a26ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lambdas/ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Predicado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4b7066297ab1cc7a46d9e495d3aabcdc30c187c8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4b7066297ab1cc7a46d9e495d3aabcdc30c187c8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambdas/Calculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/Calculo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambdas/CalculoTeste2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/CalculoTeste2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/curso-java/.idea/sonarlint/issuestore/4/b/4b7066297ab1cc7a46d9e495d3aabcdc30c187c8" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/curso-java/.idea/sonarlint/issuestore/4/b/4b7066297ab1cc7a46d9e495d3aabcdc30c187c8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/curso-java/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/curso-java/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/curso-java/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/curso-java/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/curso-java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/curso-java/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +54,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CalculoTeste3">
+  <component name="RunManager" selected="Application.Predicado">
     <configuration name="CalculoTeste1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.lambdas.CalculoTeste1" />
       <module name="curso-java" />
@@ -86,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Jantar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.polimorfismo.Jantar" />
+    <configuration name="ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.lambdas.ForEach" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.polimorfismo.*" />
+          <option name="PATTERN" value="src.lambdas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="src.poo.heranca.Desafio.CarroTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.poo.heranca.Desafio.CarroTeste" />
+    <configuration name="Predicado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.lambdas.Predicado" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.poo.heranca.Desafio.*" />
+          <option name="PATTERN" value="src.lambdas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Predicado" />
+        <item itemvalue="Application.ForEach" />
         <item itemvalue="Application.CalculoTeste3" />
         <item itemvalue="Application.CalculoTeste2" />
         <item itemvalue="Application.CalculoTeste1" />
-        <item itemvalue="Application.src.poo.heranca.Desafio.CarroTeste" />
-        <item itemvalue="Application.Jantar" />
       </list>
     </recent_temporary>
   </component>
