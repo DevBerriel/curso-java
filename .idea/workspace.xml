@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1793313-7c84-4b74-a2e3-20ef269a26ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lambdas/ForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/Predicado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4b7066297ab1cc7a46d9e495d3aabcdc30c187c8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4b7066297ab1cc7a46d9e495d3aabcdc30c187c8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Consumidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Desafio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Fornecedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Funcao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/OperadorBinario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/OperadorUnario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/PredicadoComposicao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/curso-java/.idea/sonarlint/issuestore/4/b/4b7066297ab1cc7a46d9e495d3aabcdc30c187c8" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/curso-java/.idea/sonarlint/issuestore/4/b/4b7066297ab1cc7a46d9e495d3aabcdc30c187c8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/curso-java/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/curso-java/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/curso-java/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/curso-java/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/curso-java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/curso-java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdas/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/Produto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +52,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Predicado">
-    <configuration name="CalculoTeste1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.lambdas.CalculoTeste1" />
+  <component name="RunManager" selected="Application.Desafio">
+    <configuration name="Desafio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.lambdas.Desafio" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculoTeste2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.lambdas.CalculoTeste2" />
+    <configuration name="Fornecedor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.lambdas.Fornecedor" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculoTeste3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.lambdas.CalculoTeste3" />
+    <configuration name="OperadorBinario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.lambdas.OperadorBinario" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.lambdas.ForEach" />
+    <configuration name="OperadorUnario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.lambdas.OperadorUnario" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Predicado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.lambdas.Predicado" />
+    <configuration name="PredicadoComposicao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.lambdas.PredicadoComposicao" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Predicado" />
-        <item itemvalue="Application.ForEach" />
-        <item itemvalue="Application.CalculoTeste3" />
-        <item itemvalue="Application.CalculoTeste2" />
-        <item itemvalue="Application.CalculoTeste1" />
+        <item itemvalue="Application.Desafio" />
+        <item itemvalue="Application.OperadorBinario" />
+        <item itemvalue="Application.OperadorUnario" />
+        <item itemvalue="Application.Fornecedor" />
+        <item itemvalue="Application.PredicadoComposicao" />
       </list>
     </recent_temporary>
   </component>

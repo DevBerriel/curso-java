@@ -10,4 +10,7 @@ public class Produto extends Object {
         this.preco = preco;
         this.desconto = desconto;
     }
+    public String toString() {
+        return "Nome: " + nome + " tem preço de R$ " + preco;
+    }
 }
