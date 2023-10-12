@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1793313-7c84-4b74-a2e3-20ef269a26ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/streams/CriandoStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/DesafioMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/ImprimindoObjetos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/Utilitarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/DesafioFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/DesafioLibertadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/DesafioTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/Produto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/curso-java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/curso-java/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +50,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DesafioMap">
-    <configuration name="CriandoStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.streams.CriandoStreams" />
+  <component name="RunManager" selected="Application.DesafioFilter">
+    <configuration name="DesafioFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.streams.DesafioFilter" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
@@ -64,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Desafio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.lambdas.Desafio" />
+    <configuration name="DesafioLibertadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.streams.DesafioLibertadores" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.lambdas.*" />
+          <option name="PATTERN" value="src.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImprimindoObjetos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.streams.ImprimindoObjetos" />
+    <configuration name="Filter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.streams.Filter" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DesafioFilter" />
+        <item itemvalue="Application.DesafioLibertadores" />
+        <item itemvalue="Application.Filter" />
         <item itemvalue="Application.DesafioMap" />
         <item itemvalue="Application.Map" />
-        <item itemvalue="Application.CriandoStreams" />
-        <item itemvalue="Application.ImprimindoObjetos" />
-        <item itemvalue="Application.Desafio" />
       </list>
     </recent_temporary>
   </component>
