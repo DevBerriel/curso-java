@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1793313-7c84-4b74-a2e3-20ef269a26ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/excecao/Causadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excecao/Finally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excecao/personalizada/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excecao/personalizada/NumeroNegativoException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excecao/personalizada/StringVaziaException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excecao/personalizada/TesteValidacoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excecao/personalizada/Validar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/curso-java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/curso-java/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d1793313-7c84-4b74-a2e3-20ef269a26ef" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

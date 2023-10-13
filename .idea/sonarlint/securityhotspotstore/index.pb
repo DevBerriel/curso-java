@@ -161,3 +161,23 @@ H
 src/lambdas/Calculo.java,e\f\ef1e3c8cb4677cba5a3014bbd07db61a4550ddd0
 N
 src/lambdas/CalculoTeste3.java,a\a\aaa2e527f20e2d2f656d50df93c35ff5b4a36f6c
+G
+src/excecao/Basico.java,6\d\6df117deed13c52062dabd66a268433ec07ee9eb
+F
+src/excecao/Aluno.java,1\c\1c873962382273dd1f9444d170821043656d911b
+T
+$src/excecao/ChecadaVsNaoChecada.java,4\c\4c39db80bbb5375c3327f8a67f778359b64be333
+f
+6src/excecao/personalizada/NumeroNegativoException.java,9\6\96f936a360616adca689bfa3cfaedcc7b766784f
+c
+3src/excecao/personalizada/StringVaziaException.java,e\5\e5339f9bbb303ea9e2d9e6964f34e861d564e1b5
+T
+$src/excecao/personalizada/Aluno.java,d\d\ddedf83dd022ac4318188f3270d2ec91b037a6de
+V
+&src/excecao/personalizada/Validar.java,d\6\d61846c4939433cd3f34701037d881b7ecf6a290
+^
+.src/excecao/personalizada/TesteValidacoes.java,2\4\246eb40d09d3a6e126b6c57b948159e541d0c6d2
+H
+src/excecao/Finally.java,b\4\b489f89c2af905889b8e9c0439ac74908062bb51
+J
+src/excecao/Causadora.java,1\d\1d9b634275fa859befeccaa68a0d993fc95ed67e
